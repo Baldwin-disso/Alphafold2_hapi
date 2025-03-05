@@ -1,0 +1,16 @@
+{
+    "pipeline_type": "symdocking",
+    "models_out_of_fn": [], 
+    "max_template_date": "2050-01-01",
+    "use_gpu_relax": false,
+    "random_seed": 42,
+    "db_preset": "full_dbs",
+    "model_preset": "multimer",
+    "benchmark": false,
+    "num_multimer_predictions_per_model": 1,
+    "use_precomputed_msas": false,
+    "run_relax": false,
+    "comments": true,
+    "use_checkpoint": true,
+    "A_is_ligand": true
+}

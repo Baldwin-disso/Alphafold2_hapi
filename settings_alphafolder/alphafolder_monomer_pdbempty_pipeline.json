@@ -1,0 +1,14 @@
+{
+    "pipeline_type": "pdbempty",
+    "models_out_of_fn": [],
+    "max_template_date": "2050-01-01",
+    "use_gpu_relax": false,
+    "random_seed": 42,
+    "db_preset": "full_dbs",
+    "model_preset": "monomer",
+    "benchmark": false,
+    "num_multimer_predictions_per_model": 5,
+    "use_precomputed_msas": true,
+    "run_relax": true,
+    "comments": true
+}

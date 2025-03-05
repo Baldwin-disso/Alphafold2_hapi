@@ -1,0 +1,19 @@
+{
+    "data_dir": "",
+    "uniref90_database_path": "",
+    "mgnify_database_path": "",
+    "template_mmcif_dir": "",
+    "obsolete_pdbs_path": "",
+    "bfd_database_path": "",
+    "small_bfd_database_path": "",
+    "uniref30_database_path": "",
+    "uniprot_database_path": "",
+    "pdb70_database_path": "",
+    "pdb_seqres_database_path": "",
+    "jackhmmer_binary_path": "", 
+    "hhblits_binary_path": "",
+    "hhsearch_binary_path": "",
+    "hmmsearch_binary_path": "",
+    "hmmbuild_binary_path": "",
+    "kalign_binary_path": ""
+}
