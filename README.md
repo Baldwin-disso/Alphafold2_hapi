@@ -3,7 +3,7 @@
 
 # HAPI - AlphaFold 2 Hacky API 
 
-Here is the original repository of HAPI based on our [paper](), an **independant and unofficial** hacky API for [Deepmind AlphaFold2](https://github.com/google-deepmind/alphafold) allowing to:
+Here is the original repository of HAPI based on our [paper](https://www.biorxiv.org/content/10.1101/2025.03.05.641631v1), an **independant and unofficial** hacky API for [Deepmind AlphaFold2](https://github.com/google-deepmind/alphafold) allowing to:
 - **Seemlessly use AlphaFold 2 model in any Python script** by the mean of the AlphaFolder Object that reads various sequences representations (string, fasta file path, pdb file path)
 - **Swap between different types of DataPipelines** in the AlphaFold Model :
     - Original monomer Data Pipeline 
@@ -274,11 +274,11 @@ To generate the full database produced in our paper, you will have to generate a
 
 ```
 @article{connesson2025hapi,
-  title={FILL},
-  author={FILL},
+  title={Boosting Protein-Protein Interaction Detection with AlphaFold Multimer and Transformers},
+  author={Connesson, l{\'e}na and Krouk, Gabriel and Dumortier, Baldwin},
   journal={BioRxiv},
-  pages={FILL},
-  year={FILL},
+  pages={2025--03},
+  year={2025},
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
